@@ -1,6 +1,6 @@
-# Image-Processing
+# ImageCraft: Image Manipulation Toolkit
 
-This repository contains code for performing basic image processing operations in Python. The code uses the OpenCV library, which is a popular open source computer vision library.
+Welcome to ImageCraft, a toolkit designed for executing fundamental image processing tasks using Python. Powered by the renowned OpenCV library, this toolkit offers a seamless experience for those diving into the realm of computer vision.
 
 ## Getting Started
 To use this code, you will need to install the following dependencies:
@@ -32,3 +32,5 @@ python manipulation.py input.png grayscale.png
 The documentation for the OpenCV library can be found here:
 
 * https://docs.opencv.org/3.4/
+
+Dive in and transform your images with ImageCraft!
